@@ -5,6 +5,7 @@ from kivy.properties import (
 )
 from kivy.vector import Vector
 from kivy.clock import Clock
+from kivy.graphics import Color
 
 
 class PongPaddle(Widget):
